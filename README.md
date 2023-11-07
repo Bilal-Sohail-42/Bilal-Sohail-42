@@ -1,6 +1,9 @@
 👋 Hi, I’m Muhammad Bilal
+
 👨‍💻 Aspiring Front-End Developer
+
 🌱 I'm continuously growing my skills as a front-end developer
+
 💼 Actively seeking opportunities to work on exciting web projects
 
 <!---
